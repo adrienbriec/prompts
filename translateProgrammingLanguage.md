@@ -1,6 +1,6 @@
 ## Prompt to translate from a known programming language to others.
 
-This is used to translate a script from a know programming language (e.g. Python) to another one (e.g. C) with a step by step guide from how to get the required software to compiling instructiuon.  
+This is used to translate a script from a know programming language (e.g. Python) to another one (e.g. C) with a step by step guide from how to get the required softwares to compiling instructions.  
 If you're using ChatGPT, turn on the **Reason** feature.  
 **Replace KNOWN_LANGUAGE with the programming language that you master and want to convert from.**  
 
